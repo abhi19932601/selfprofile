@@ -15,7 +15,7 @@ const blogPosts: BlogPost[] = [
     url: "https://abhishekec6.substack.com/p/senior-living-sales-from-geriatric",
     date: "May 5, 2025",
     summary: "Exploring how Agentic AI is changing the senior living real state space focussed on sales and personalization.",
-    imageUrl: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    imageUrl: "https://images.pexels.com/photos/7551674/pexels-photo-7551674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     title: "The future of PCs",
