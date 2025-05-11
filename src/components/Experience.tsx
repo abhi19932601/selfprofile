@@ -30,7 +30,7 @@ const experiences: ExperienceItem[] = [
     ]
   },
   {
-    title: "Senior Product Manager, Quick Commerce",
+    title: "Principal PM, Special Projects",
     company: "Swiggy", 
     period: "2021-2022",
     description: [
@@ -41,25 +41,25 @@ const experiences: ExperienceItem[] = [
     ]
   },
   {
-    title: "Product Manager, Core Experience",
+    title: "Senior PM, Strategy & Tech Innovation",
     company: "Swiggy",
     period: "2019-2021", 
     description: [
-      "Spearheaded the redesign of Swiggy's core ordering experience, resulting in a 30% increase in user retention.",
-      "Built and scaled the restaurant partner dashboard, enabling real-time analytics and inventory management for 140,000+ restaurants.",
-      "Launched Swiggy's subscription program, acquiring 500,000+ subscribers in the first quarter.",
-      "Led the development of AI-powered restaurant recommendations, improving order conversion rates by 35%."
+      "Spearheaded the redesign of Swiggy's restraurant onboarding experience, resulting in a 30% increase in onboarding",
+      "Built and scaled the restaurant partner dashboard, enabling real-time pricing intelligence management for 140,000+ restaurants.",
+      "Launched Swiggy's financial reconcillation program, across 100,000+ delivery partners across cash and online collectionechanisms.",
+      "Led the development of AI-powered cloud kitchen menu parity recommendations, reducing parity complaint rates by 35%."
     ]
   },
   {
-    title: "Senior Product Manager",
+    title: "Chief of Staff",
     company: "Belong.co",
     period: "2018-2019",
     description: [
       "Led product strategy and development for AI-powered talent acquisition platform.",
       "Implemented machine learning algorithms for candidate matching and assessment.",
-      "Scaled platform to serve 200+ enterprise clients with 95% retention rate.",
-      "Drove 40% improvement in time-to-hire metrics through automated workflows."
+      "Scaled platform to serve 40+ enterprise clients with 75% retention rate.",
+      "Drove 40% improvement in demand generation, sales playbook metrics through automated workflows on Salesforce, Semrush, Marketo, Hubspot."
     ]
   },
   {
