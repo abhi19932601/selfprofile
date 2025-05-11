@@ -9,6 +9,26 @@ interface ExperienceItem {
 
 const experiences: ExperienceItem[] = [
   {
+    title: "Products & Strategy",
+    company: "Dell",
+    period: "2024-Present",
+    description: [
+      "Facing rapid AI market growth, I led Dell Pro AI Studio's v1 strategy, execution against defined roadmap, securing executive buy-in for key AI investments, positioning Dell as an industry leader.",
+      "Identifying AI opportunities, I developed and implemented impactful features with cross-functional teams, driving research using sources like Crunchbase, GLG, IDC and more.",
+      "To optimize Dell's trusted updates platform, I managed its roadmap, using data to prioritize enhancements that drove reduction in calls and dispatches."
+    ]
+  },
+  {
+    title: "Venture Capital Analyst",
+    company: "Primodial.io",
+    period: "2023-Present",
+    description: [
+      "Conducted comprehensive due diligence on potential investment opportunities in emerging technology sectors.",
+      "Analyzed market trends and competitive landscapes to identify promising investment targets.",
+      "Collaborated with portfolio companies to provide strategic guidance and support growth initiatives."
+    ]
+  },
+  {
     title: "Principal Product Manager, Technical Advisor to CTO",
     company: "Microsoft",
     period: "2021-2022",
@@ -28,28 +48,6 @@ const experiences: ExperienceItem[] = [
       "Created and executed strategies for incorporating startup innovations into Microsoft's product ecosystem.",
       "Managed relationships with key startup partners, facilitating mutual growth and innovation opportunities.",
       "Developed and implemented programs to support startups in scaling their technologies."
-    ]
-  },
-  {
-    title: "Chief of Staff",
-    company: "Microsoft",
-    period: "2018-2019",
-    description: [
-      "Operated as a strategic partner to senior leadership, managing high-priority initiatives and projects.",
-      "Coordinated cross-functional teams to ensure alignment and execution of strategic objectives.",
-      "Facilitated effective communication between executive leadership and various departments.",
-      "Led operational excellence initiatives, improving processes and driving efficiency."
-    ]
-  },
-  {
-    title: "Product Manager",
-    company: "Microsoft",
-    period: "2016-2018",
-    description: [
-      "Managed the product lifecycle from conceptualization to launch for key Microsoft offerings.",
-      "Gathered and prioritized product requirements, defining product vision and roadmap.",
-      "Collaborated with engineering teams to deliver features aligned with customer needs and business goals.",
-      "Conducted market research and competitive analysis to identify opportunities for product improvement."
     ]
   }
 ];
