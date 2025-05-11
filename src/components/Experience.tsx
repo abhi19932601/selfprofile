@@ -21,12 +21,12 @@ const experiences: ExperienceItem[] = [
   {
     title: "Venture Capital Analyst",
     company: "Primodial.io",
-    period: "2023-2024",
+    period: "2023-Present",
     description: [
-      "I sourced $250K in deals (e-commerce, AI, home services) with 2X return.",
-      "Financial Analysis & Valuation: My MBA finance built custom unit economics and cash flow models, now standard at Primordial.io.",
-      "Ecosystem Development & M&A: I drove 3 acquisitions, built 15+ partnerships, reducing risk by 40%.",
-      "Technology Trend Analysis: I identified early disruptive tech, yielding a strong 3.5X investment return."
+      "I sourced $250K in deals (e-commerce, AI, SaaS, home services) with 2X return.",
+      "Financial Analysis & Valuation: My MBA finance built custom unit economics, operating expense forecasts and cash flow models for evaluating 100+ deals.",
+      "Ecosystem Development & M&A: I sourced and funded 3 deals built 15+ funnel pipeline across SaaS, Consumer, Real-Estate Tech, Mar-Tech.",
+      "Technology Trend Analysis: I identified early disruptive tech, yielding a strong 3.5X investment velocity."
     ]
   },
   {
