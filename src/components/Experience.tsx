@@ -21,7 +21,7 @@ const experiences: ExperienceItem[] = [
   {
     title: "Venture Capital Analyst",
     company: "Primodial.io",
-    period: "2023-Present",
+    period: "2023-2024",
     description: [
       "I sourced $250K in deals (e-commerce, AI, home services) with 2X return.",
       "Financial Analysis & Valuation: My MBA finance built custom unit economics and cash flow models, now standard at Primordial.io.",
