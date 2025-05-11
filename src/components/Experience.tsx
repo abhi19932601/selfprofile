@@ -54,7 +54,7 @@ const experiences: ExperienceItem[] = [
   {
     title: "Chief of Staff",
     company: "Belong.co",
-    period: "2018-2019",
+    period: "2016-2019",
     description: [
       "Led product strategy and development for AI-powered talent acquisition platform.",
       "Implemented machine learning algorithms for candidate matching and assessment.",
@@ -65,7 +65,7 @@ const experiences: ExperienceItem[] = [
   {
     title: "Product Manager",
     company: "Mercer-Mettl",
-    period: "2017-2018",
+    period: "2014-2015",
     description: [
       "Managed end-to-end product lifecycle for online assessment platform.",
       "Launched remote proctoring solution used by 100+ universities globally.",
