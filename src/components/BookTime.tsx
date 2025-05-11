@@ -11,7 +11,7 @@ const BookTime = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Book a Time</h2>
           <div className="w-20 h-1 bg-blue-600 mx-auto mb-6"></div>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Interested in discussing product strategy, startup mentorship, or potential collaborations? 
+            Interested in discussing product, strategy, startups, or potential collaborations? 
             Use the calendar below to schedule a meeting.
           </p>
         </div>
@@ -25,13 +25,13 @@ const BookTime = () => {
                   <div className="flex-shrink-0 h-6 w-6 flex items-center justify-center rounded-full bg-blue-500 mr-3">
                     <User size={14} />
                   </div>
-                  <span>Product Strategy Consultation</span>
+                  <span>Product / Strategy brainstorming</span>
                 </li>
                 <li className="flex items-start">
                   <div className="flex-shrink-0 h-6 w-6 flex items-center justify-center rounded-full bg-blue-500 mr-3">
                     <MessageSquare size={14} />
                   </div>
-                  <span>Startup Mentorship</span>
+                  <span>Startups</span>
                 </li>
                 <li className="flex items-start">
                   <div className="flex-shrink-0 h-6 w-6 flex items-center justify-center rounded-full bg-blue-500 mr-3">
