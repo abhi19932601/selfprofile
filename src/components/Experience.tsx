@@ -30,25 +30,25 @@ const experiences: ExperienceItem[] = [
     ]
   },
   {
-    title: "Principal Product Manager, Technical Advisor to CTO",
-    company: "Microsoft",
+    title: "Senior Product Manager, Quick Commerce",
+    company: "Swiggy",
     period: "2021-2022",
     description: [
-      "Served as technical advisor to the CTO, leading critical strategic initiatives and providing technical leadership.",
-      "Developed and implemented product strategies that aligned with Microsoft's technological vision.",
-      "Led cross-functional teams to deliver innovative solutions that addressed complex business challenges.",
-      "Provided mentorship to junior product managers, fostering growth and development within the organization."
+      "Led the development and launch of Swiggy's quick commerce platform, scaling to 4M+ users across 134 cities in India.",
+      "Orchestrated partnerships with 2000+ local stores, implementing ML-driven inventory management that reduced stockouts by 40%.",
+      "Developed and executed the product roadmap for Swiggy's 15-minute delivery promise, achieving 98% on-time delivery rate.",
+      "Implemented dynamic pricing algorithms that increased merchant revenue by 25% while maintaining customer satisfaction."
     ]
   },
   {
-    title: "Senior Product Manager, Startup Ecosystem Development & Innovation",
-    company: "Microsoft",
+    title: "Product Manager, Core Experience",
+    company: "Swiggy",
     period: "2019-2021",
     description: [
-      "Led initiatives for startup ecosystem development, focusing on nurturing and growing startup partnerships.",
-      "Created and executed strategies for incorporating startup innovations into Microsoft's product ecosystem.",
-      "Managed relationships with key startup partners, facilitating mutual growth and innovation opportunities.",
-      "Developed and implemented programs to support startups in scaling their technologies."
+      "Spearheaded the redesign of Swiggy's core ordering experience, resulting in a 30% increase in user retention.",
+      "Built and scaled the restaurant partner dashboard, enabling real-time analytics and inventory management for 140,000+ restaurants.",
+      "Launched Swiggy's subscription program, acquiring 500,000+ subscribers in the first quarter.",
+      "Led the development of AI-powered restaurant recommendations, improving order conversion rates by 35%."
     ]
   }
 ];
