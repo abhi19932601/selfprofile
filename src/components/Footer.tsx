@@ -16,6 +16,13 @@ const Footer = () => {
         <div className="mt-12 border-t border-gray-800 pt-8">
           <h4 className="text-center text-gray-400 mb-6">Brands I Have Learnt From</h4>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 items-center justify-items-center">
+            <a href="https://www.dell.com" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
+              <img 
+                src="https://images.pexels.com/photos/1432675/pexels-photo-1432675.jpeg" 
+                alt="Dell" 
+                className="h-16 object-contain filter brightness-0 invert"
+              />
+            </a>
             <a href="https://manipal.edu/mit.html" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
               <img 
                 src="https://images.pexels.com/photos/207692/pexels-photo-207692.jpeg" 
@@ -27,13 +34,6 @@ const Footer = () => {
               <img 
                 src="https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg" 
                 alt="Swiggy" 
-                className="h-16 object-contain filter brightness-0 invert"
-              />
-            </a>
-            <a href="https://www.dell.com" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
-              <img 
-                src="https://images.pexels.com/photos/207690/pexels-photo-207690.jpeg" 
-                alt="Dell" 
                 className="h-16 object-contain filter brightness-0 invert"
               />
             </a>
