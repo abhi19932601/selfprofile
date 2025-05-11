@@ -22,7 +22,7 @@ const blogPosts: BlogPost[] = [
     url: "https://abhishekec6.substack.com/p/goldrush-for-ai-pcs",
     date: "June 05, 2024",
     summary: "So how are AI PCs boosting the overall value of PC shipments from US$225B in 2024 to over US$270B in 2028?",
-    imageUrl: "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    imageUrl: "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     title: "Navigating the future of Quick-Commerce",
