@@ -23,9 +23,10 @@ const experiences: ExperienceItem[] = [
     company: "Primodial.io",
     period: "2023-Present",
     description: [
-      "Conducted comprehensive due diligence on potential investment opportunities in emerging technology sectors.",
-      "Analyzed market trends and competitive landscapes to identify promising investment targets.",
-      "Collaborated with portfolio companies to provide strategic guidance and support growth initiatives."
+      "I sourced $250K in deals (e-commerce, AI, home services) with 2X return.",
+      "Financial Analysis & Valuation: My MBA finance built custom unit economics and cash flow models, now standard at Primordial.io.",
+      "Ecosystem Development & M&A: I drove 3 acquisitions, built 15+ partnerships, reducing risk by 40%.",
+      "Technology Trend Analysis: I identified early disruptive tech, yielding a strong 3.5X investment return."
     ]
   },
   {
