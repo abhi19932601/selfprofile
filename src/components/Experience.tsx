@@ -31,7 +31,7 @@ const experiences: ExperienceItem[] = [
   },
   {
     title: "Senior Product Manager, Quick Commerce",
-    company: "Swiggy",
+    company: "Swiggy", 
     period: "2021-2022",
     description: [
       "Led the development and launch of Swiggy's quick commerce platform, scaling to 4M+ users across 134 cities in India.",
@@ -43,12 +43,34 @@ const experiences: ExperienceItem[] = [
   {
     title: "Product Manager, Core Experience",
     company: "Swiggy",
-    period: "2019-2021",
+    period: "2019-2021", 
     description: [
       "Spearheaded the redesign of Swiggy's core ordering experience, resulting in a 30% increase in user retention.",
       "Built and scaled the restaurant partner dashboard, enabling real-time analytics and inventory management for 140,000+ restaurants.",
       "Launched Swiggy's subscription program, acquiring 500,000+ subscribers in the first quarter.",
       "Led the development of AI-powered restaurant recommendations, improving order conversion rates by 35%."
+    ]
+  },
+  {
+    title: "Senior Product Manager",
+    company: "Belong.co",
+    period: "2018-2019",
+    description: [
+      "Led product strategy and development for AI-powered talent acquisition platform.",
+      "Implemented machine learning algorithms for candidate matching and assessment.",
+      "Scaled platform to serve 200+ enterprise clients with 95% retention rate.",
+      "Drove 40% improvement in time-to-hire metrics through automated workflows."
+    ]
+  },
+  {
+    title: "Product Manager",
+    company: "Mercer-Mettl",
+    period: "2017-2018",
+    description: [
+      "Managed end-to-end product lifecycle for online assessment platform.",
+      "Launched remote proctoring solution used by 100+ universities globally.",
+      "Developed innovative anti-cheating features using computer vision.",
+      "Increased assessment completion rates by 35% through UX improvements."
     ]
   }
 ];
