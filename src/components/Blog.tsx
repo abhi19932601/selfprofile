@@ -29,7 +29,7 @@ const blogPosts: BlogPost[] = [
     url: "https://abhishekec6.substack.com/p/navigating-the-future-of-quick-commerce",
     date: "August 18, 2024",
     summary: "Key insights into the US Quick commerce space and challenges that can be solved with platform based technologies.",
-    imageUrl: "https://images.pexels.com/photos/7691577/pexels-photo-7691577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    imageUrl: "https://images.pexels.com/photos/7706458/pexels-photo-7706458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
 ];
 
