@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 items-center justify-items-center">
             <a href="https://www.dell.com" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
               <img 
-                src="https://images.pexels.com/photos/1432675/pexels-photo-1432675.jpeg" 
+                src="https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg" 
                 alt="Dell" 
                 className="h-16 object-contain filter brightness-0 invert"
               />
