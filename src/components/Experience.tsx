@@ -36,7 +36,7 @@ const experiences: ExperienceItem[] = [
     description: [
       "Led the development and launch of Swiggy's quick commerce platform, scaling to 4M+ users across 134 cities in India.",
       "Orchestrated partnerships with 2000+ local stores, implementing ML-driven inventory management that reduced stockouts by 40%.",
-      "Developed and executed the product roadmap for Swiggy's 15-minute delivery promise, achieving 98% on-time delivery rate.",
+      "Developed and executed the data automation intelligence product roadmap for Swiggy's 30-min delivery promise, achieving 98% on-time parity with competitors.",
       "Implemented dynamic pricing algorithms that increased merchant revenue by 25% while maintaining customer satisfaction."
     ]
   },
